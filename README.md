@@ -8,6 +8,10 @@ A Gradio web UI for Large Language Models that can be run for free or paid on Go
 
 [The Local Lab Twitter](https://twitter.com/TheLocalLab_)
 
+<img src="https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab.png" width="650" height="512"> 
+<img src="https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab1.png" alt="Image 1" width="650" height="512">
+<img src="https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab2.1.png" alt="Image 2" width="650" height="512">
+<img src="https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab3.png" alt="Image 3" width="650" height="512">
 
 This project provides a simple and convenient way to run the Ooba Booga WebUI for text generation right here on Google Colab! With just a few lines of code, you can set up and use the Ooba Booga text-generation-webui without modifying any program files.
 
