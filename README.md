@@ -8,6 +8,8 @@ A Gradio web UI for Large Language Models that can be run for free or paid on Go
 
 [The Local Lab Twitter](https://twitter.com/TheLocalLab_)
 
+[Youtube Tutorial Link](https://youtu.be/Qjq9fI-Xkao)
+
 <img src="https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab.png" width="650" height="512"> 
 <img src="https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab1.png" alt="Image 1" width="650" height="512">
 <img src="https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab2.1.png" alt="Image 2" width="650" height="512">
