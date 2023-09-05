@@ -2,17 +2,21 @@
 
 A Gradio web UI for Large Language Models that can be run for free or paid on Google Colab.
 
-[Simple Colab Notebook Link](https://colab.research.google.com/drive/1Koz9mSsYp_hbp2jM_u2wl2clOqxYfyX1?usp=sharing)
+[The Local Lab Twitter](https://twitter.com/TheLocalLab_)
 
 [Original Ooba Booga Text-Generation-WebUI Repo](https://github.com/oobabooga/text-generation-webui)
 
-[The Local Lab Twitter](https://twitter.com/TheLocalLab_)
+Simple Colab Notebook Link - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Koz9mSsYp_hbp2jM_u2wl2clOqxYfyX1?usp=sharing)
 
 
 
-|                                           ***Youtube Tutorial Link***                                               |   
+
+
+|                                           ***Youtube Tutorial Link***                                              |   
 | :------------------------------------------------------------------------------------------------------: | 
 | [![Watch the video](https://img.youtube.com/vi/Qjq9fI-Xkao/sddefault.jpg)](https://www.youtube.com/watch?v=Qjq9fI-Xkao) |
+
+# Visuals
 
 |![Image1](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab.png) | ![Image2](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab1.png) |
 |:---:|:---:|
