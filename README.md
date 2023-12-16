@@ -49,9 +49,10 @@ os.chdir("./text-generation-webui")
 !pip install -r requirements.txt
 ```
 
-4. Run the server.py file to start the web UI server:
+4. Run the server.py or start_linux.sh module to start the web UI server:
 ```
-!python server.py --share
+!./start_linux.sh --share --verbose
+!python server.py --share --verbose
 ```
 Once the server is running, you will see a sharable Gradio link. Click on the link to open the text-generation interface and start generating text with various models. Have fun exploring the capabilities of the Ooba Booga text-generation-webui!
 
