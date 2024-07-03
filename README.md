@@ -18,9 +18,9 @@ Simple Colab Notebook Link - [![Open In Colab](https://colab.research.google.com
 
 # Visuals
 
-|![Image1](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab.png) | ![Image2](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab1.png) |
+|![Image1](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/updatedcolab1.png) | ![Image2](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/updatedcolab2.png) |
 |:---:|:---:|
-|![Image1](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab2.1.png) | ![Image2](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab3.png) |
+|![Image1](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/updatedcolab.png) | ![Image2](https://raw.githubusercontent.com/TheLocalLab/text-generation-webui-simple-colab/main/SimpleColab3.png) |
 
 
 This project provides a simple and convenient way to run the Ooba Booga WebUI for text generation right here on Google Colab! With just a few lines of code, you can set up and use the Ooba Booga text-generation-webui without modifying any program files.
