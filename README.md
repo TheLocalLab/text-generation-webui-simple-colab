@@ -14,7 +14,7 @@ Simple Colab Notebook Link - [![Open In Colab](https://colab.research.google.com
 
 |                                           ***Youtube Tutorial Link***                                              |   
 | :------------------------------------------------------------------------------------------------------: | 
-| [![Watch the video](https://img.youtube.com/vi/Qjq9fI-Xkao/sddefault.jpg)](https://www.youtube.com/watch?v=Qjq9fI-Xkao) |
+| [![Watch the video](https://img.youtube.com/vi/NNK6Kj_unOw/sddefault.jpg)](https://youtu.be/NNK6Kj_unOw) |
 
 # Visuals
 
